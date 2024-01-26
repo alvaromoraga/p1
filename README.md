@@ -27,6 +27,3 @@ Además, se han descargado diferentes entornos donde se pueden programar en dife
 [Acceso a PDF](https://github.com/alvaromoraga/p1/blob/main/Pr%C3%A1ctica%201%20PAT.pdf)
 
 
-## ¿Cómo escribir un README.md con formato?
-
-[Github Markdown](https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
