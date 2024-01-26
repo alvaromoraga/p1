@@ -24,7 +24,7 @@ El propósito de esta primera práctica es el de familiarizarse con GitHub y alg
 Además, se han descargado diferentes entornos donde se pueden programar en diferentes lenguajes.
 
 ## Acceso a PDF con explicaciones y procedimientos
-[Acceso a PDF]()
+[Acceso a PDF](https://github.com/alvaromoraga/p1/blob/main/Pr%C3%A1ctica%201%20PAT.pdf)
 
 
 ## ¿Cómo escribir un README.md con formato?
